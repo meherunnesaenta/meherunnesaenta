@@ -14,12 +14,21 @@ Building modern web applications with clean UI, scalable backend and real world 
 
 ### 👩‍💻 About Me
 
-  
-- 💻 Full Stack Web Developer (MERN Stack)  
-- 🌱 Currently learning **Next.js, Express.js & MongoDB**  
-- 🚀 Working on **Service Provider & Recruitment System (Next.js Project)**  
-- 🎯 Goal: Become a **professional software engineer / web developer**  
-- 📫 Reach me: **meherunnesaenta1@gmail.com**
+<p>
+
+💻 Full Stack Web Developer specializing in the <b>MERN Stack</b>  
+
+🎓 <b>Graduated in Computer Science & Engineering</b>  
+
+🌱 Currently exploring  <b>Next.js</b> , <b>Express.js</b>, <b>MongoDB</b>  
+
+🚀 Developed projects including <b>Service Provider & Recruitment System</b> (Next.js based platform)
+
+🎯 Career Goal Become a <b>Professional Software Engineer & Web Developer</b>
+
+📫 Contact <b>meherunnesaenta1@gmail.com</b>
+
+</p>
 
 ---
 
@@ -43,7 +52,7 @@ Building modern web applications with clean UI, scalable backend and real world 
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/meherun-nesa-enta-4b9506395?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
