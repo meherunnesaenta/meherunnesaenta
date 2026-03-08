@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meherun Nesa Enta</h1>
-<h3 align="center">Full Stack Web Developer (MERN) | CSE Student from Bangladesh</h3>
+<h3 align="center">Full Stack Web Developer (MERN) </h3>
 
 <p align="center">
 Building modern web applications with clean UI, scalable backend and real world problem solving.
@@ -9,7 +9,7 @@ Building modern web applications with clean UI, scalable backend and real world 
 
 ### 👩‍💻 About Me
 
-- 🎓 CSE Student  
+  
 - 💻 Full Stack Web Developer (MERN Stack)  
 - 🌱 Currently learning **Next.js, Express.js & MongoDB**  
 - 🚀 Working on **Service Provider & Recruitment System (Next.js Project)**  
@@ -70,16 +70,32 @@ Building modern web applications with clean UI, scalable backend and real world 
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-💼 **Service Provider & Recruitment System**  
-A platform where recruiters can find skilled workers (plumbers, electricians, etc.) based on location and job type.
 
-Tech Used:
-- Next.js
-- TailwindCSS
-- MongoDB
-- JavaScript
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/meherunnesaenta/StyleDecor-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=StyleDecor-client&theme=tokyonight&hide_border=true" alt="Style Decor Repo Card" />
+      </a>
+      <br/>
+      <b>Style Decor</b><br/>
+      React.js platform connecting clients with local decorators<br/>
+      <small>Tech: React.js • Tailwind • MongoDB • Auth</small>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/meherunnesaenta/service-provider-recruitment-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=service-provider-recruitment-system&theme=tokyonight&hide_border=true" alt="Recruitment System Repo Card" />
+      </a>
+      <br/>
+      <b>Service Provider & Recruitment System</b><br/>
+      Next.js platform for local skilled workers matching<br/>
+      <small>Tech: Next.js • Tailwind • MongoDB • Geolocation</small>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
