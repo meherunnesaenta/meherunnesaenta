@@ -1,31 +1,110 @@
 <h1 align="center">Hi 👋, I'm Meherun Nesa Enta</h1>
-<!-- <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
- 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=meherunnesaenta&label=Profile%20views&color=0e75b6&style=flat" alt="meherunnesaenta" /> </p>
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
--  📫 How to reach me -> **meherunnesaenta1@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Full Stack Web Developer (MERN) | CSE Student from Bangladesh</h3>
 
 <p align="center">
-<a href="https://fb.com/meherunnesa.enta.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meherunnesa.enta.1" height="30" width="40" /></a>&nbsp &nbsp &nbsp
-<a href="https://codeforces.com/profile/meherunenta" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="meherunenta" height="30" width="40" /></a>&nbsp &nbsp &nbsp 
-<a href="https://www.codechef.com/users/meherunenta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meherunenta" height="30" width="40" /></a>&nbsp &nbsp &nbsp
-<a href="https://www.hackerrank.com/@meherunnesaenta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@meherunnesaenta1" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meherunnesaenta" height="30" width="40" /></a>&nbsp &nbsp &nbsp
+Building modern web applications with clean UI, scalable backend and real world problem solving.
 </p>
-<br>
-<br>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp &nbsp &nbsp <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp &nbsp &nbsp <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp &nbsp &nbsp <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp &nbsp &nbsp <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp &nbsp &nbsp <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<br>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meherunnesaenta&show_icons=true&locale=en&layout=compact" alt="meherunnesaenta" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meherunnesaenta&" alt="meherunnesaenta" /></p>
+### 👩‍💻 About Me
 
+- 🎓 CSE Student  
+- 💻 Full Stack Web Developer (MERN Stack)  
+- 🌱 Currently learning **Next.js, Express.js & MongoDB**  
+- 🚀 Working on **Service Provider & Recruitment System (Next.js Project)**  
+- 🎯 Goal: Become a **professional software engineer / web developer**  
+- 📫 Reach me: **meherunnesaenta1@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://fb.com/meherunnesa.enta.1">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/meherunenta">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/meherunenta">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/@meherunnesaenta1">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs"/>
+</p>
+
+#### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+#### 🧠 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java"/>
+</p>
+
+#### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+### 🚀 Featured Project
+
+💼 **Service Provider & Recruitment System**  
+A platform where recruiters can find skilled workers (plumbers, electricians, etc.) based on location and job type.
+
+Tech Used:
+- Next.js
+- TailwindCSS
+- MongoDB
+- JavaScript
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=meherunnesaenta&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meherunnesaenta&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meherunnesaenta&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 🔥 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=meherunnesaenta&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+### ✨ Quote
+
+> “Code is not just code, it is a solution to real world problems.”
