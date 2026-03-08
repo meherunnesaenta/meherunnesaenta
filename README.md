@@ -48,25 +48,13 @@ Building modern web applications with clean UI, scalable backend and real world 
 
 ### 🛠️ Tech Stack
 
-#### 💻 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs"/>
-</p>
-
-#### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-#### 🧠 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java"/>
-</p>
-
-#### 🛠 Tools
-<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java"/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
+
 
 ---
 
@@ -103,12 +91,13 @@ Building modern web applications with clean UI, scalable backend and real world 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meherunnesaenta&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meherunnesaenta&show_icons=true&theme=tokyoday"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meherunnesaenta&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meherunnesaenta&theme=tokyoday"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meherunnesaenta&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meherunnesaenta&layout=compact&theme=tokyoday"/>
+<!-- Contribution Activity Graph (graph-like heatmap) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meherunnesaenta&theme=dracula" alt="Contribution Graph" width="90%" />
 </p>
 
 ---
