@@ -84,16 +84,16 @@ Building modern web applications with clean UI, scalable backend and real world 
       <br/>
       <b>Style Decor</b><br/>
       React.js platform connecting clients with local decorators<br/>
-      <small>Tech: React.js • Tailwind • MongoDB • Auth</small>
+      <small>Tech: React.js • Tailwind • MongoDB • Auth • Firebase</small>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/meherunnesaenta/service-provider-recruitment-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=service-provider-recruitment-system&theme=tokyonight&hide_border=true" alt="Recruitment System Repo Card" />
+      <a href="https://github.com/meherunnesaenta/krishilink-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=krishilink-client&theme=tokyonight&hide_border=true" alt="Recruitment System Repo Card" />
       </a>
       <br/>
-      <b>Service Provider & Recruitment System</b><br/>
-      Next.js platform for local skilled workers matching<br/>
-      <small>Tech: Next.js • Tailwind • MongoDB • Geolocation</small>
+      <b>krishilink-client</b><br/>
+      react.js platform for local crop selling <br/>
+      <small>Tech: react.js • Tailwind • MongoDB • Auth • Firebase </small>
     </td>
   </tr>
 </table>
