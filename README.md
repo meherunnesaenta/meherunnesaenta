@@ -75,9 +75,9 @@ Building modern web applications with clean UI, scalable backend and real world 
 ### 🚀 Featured Projects
 
 
-<table align="center">
+<table align="50 center">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="35%">
       <a href="https://github.com/meherunnesaenta/StyleDecor-client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=StyleDecor-client&theme=tokyonight&hide_border=true" alt="Style Decor Repo Card" />
       </a>
@@ -86,7 +86,7 @@ Building modern web applications with clean UI, scalable backend and real world 
       React.js platform connecting clients with local decorators<br/>
       <small>Tech: React.js • Tailwind • MongoDB • Auth • Firebase</small>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="35%">
       <a href="https://github.com/meherunnesaenta/krishilink-client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=krishilink-client&theme=tokyonight&hide_border=true" alt="Recruitment System Repo Card" />
       </a>
@@ -95,7 +95,7 @@ Building modern web applications with clean UI, scalable backend and real world 
       react.js platform for local crop selling <br/>
       <small>Tech: react.js • Tailwind • MongoDB • Auth • Firebase </small>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width=30"%">
       <a href="https://github.com/meherunnesaenta/careio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=careio&theme=tokyonight&hide_border=true" alt="Recruitment System Repo Card" />
       </a>
