@@ -95,6 +95,15 @@ Building modern web applications with clean UI, scalable backend and real world 
       react.js platform for local crop selling <br/>
       <small>Tech: react.js • Tailwind • MongoDB • Auth • Firebase </small>
     </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/meherunnesaenta/careio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=careio&theme=tokyonight&hide_border=true" alt="Recruitment System Repo Card" />
+      </a>
+      <br/>
+      <b>Care.io</b><br/>
+      Nest.js platform for babies and older services <br/>
+      <small>Tech: Nest.js • Tailwind • MongoDB • Auth • NextAuth</small>
+    </td>
   </tr>
 </table>
 
