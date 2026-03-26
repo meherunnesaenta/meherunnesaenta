@@ -1,34 +1,29 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/mrkYW7Xn/github-header-banner.png" width="100%" />
+  <img src="https://i.ibb.co/mrkYW7Xn/github-header-banner.png" width="100%" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Meherun Nesa Enta</h1>
-<h3 align="center">Full Stack Web Developer (MERN) </h3>
+<h3 align="center">Full Stack Web Developer (MERN)</h3>
 
 <p align="center">
-Building modern web applications with clean UI, scalable backend and real world problem solving.
+Building modern web applications with clean UI, scalable backend, and real-world problem solving.
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-<p>
+💻 Full Stack Web Developer specializing in the **MERN Stack**  
 
-💻 Full Stack Web Developer specializing in the <b>MERN Stack</b>  
+🎓 Graduated in Computer Science & Engineering  
 
-🎓 <b>Graduated in Computer Science & Engineering</b>  
+🌱 Currently exploring **Next.js**, **Express.js**, **MongoDB**  
 
-🌱 Currently exploring  <b>Next.js</b> , <b>Express.js</b>, <b>MongoDB</b>  
+🚀 Developed projects including **Service Provider & Recruitment System** (Next.js based platform)
 
-🚀 Developed projects including <b>Service Provider & Recruitment System</b> (Next.js based platform)
+🎯 Career Goal: Become a **Professional Software Engineer & Web Developer**
 
-🎯 Career Goal Become a <b>Professional Software Engineer & Web Developer</b>
-
-📫 Contact <b>meherunnesaenta1@gmail.com</b>
-
-</p>
+📫 Contact: **meherunnesaenta1@gmail.com**
 
 ---
 
@@ -52,7 +47,7 @@ Building modern web applications with clean UI, scalable backend and real world 
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/meherun-nesa-enta-4b9506395?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/meherun-nesa-enta-4b9506395/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -62,22 +57,20 @@ Building modern web applications with clean UI, scalable backend and real world 
 
 ### 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java"/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 
 ---
 
 ### 🚀 Featured Projects
 
-
-<table align="50 center">
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="35%">
+    <td align="center" valign="top" width="30%">
       <a href="https://github.com/meherunnesaenta/StyleDecor-client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=StyleDecor-client&theme=tokyonight&hide_border=true" alt="Style Decor Repo Card" />
       </a>
@@ -86,40 +79,35 @@ Building modern web applications with clean UI, scalable backend and real world 
       React.js platform connecting clients with local decorators<br/>
       <small>Tech: React.js • Tailwind • MongoDB • Auth • Firebase</small>
     </td>
-    <td align="center" valign="top" width="35%">
+    <td align="center" valign="top" width="30%">
       <a href="https://github.com/meherunnesaenta/krishilink-client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=krishilink-client&theme=tokyonight&hide_border=true" alt="Recruitment System Repo Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=krishilink-client&theme=tokyonight&hide_border=true" alt="Krishilink Repo Card" />
       </a>
       <br/>
-      <b>krishilink-client</b><br/>
-      react.js platform for local crop selling <br/>
-      <small>Tech: react.js • Tailwind • MongoDB • Auth • Firebase </small>
+      <b>Krishilink</b><br/>
+      React.js platform for local crop selling<br/>
+      <small>Tech: React.js • Tailwind • MongoDB • Auth • Firebase</small>
     </td>
-    <td align="center" valign="top" width=30"%">
+    <td align="center" valign="top" width="30%">
       <a href="https://github.com/meherunnesaenta/careio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=careio&theme=tokyonight&hide_border=true" alt="Recruitment System Repo Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=careio&theme=tokyonight&hide_border=true" alt="Care.io Repo Card" />
       </a>
       <br/>
       <b>Care.io</b><br/>
-      Nest.js platform for babies and older services <br/>
+      Nest.js platform for babies and older services<br/>
       <small>Tech: Nest.js • Tailwind • MongoDB • Auth • NextAuth</small>
     </td>
   </tr>
 </table>
-
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=meherunnesaenta&show_icons=true&theme=tokyoday"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meherunnesaenta&theme=tokyoday"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meherunnesaenta&layout=compact&theme=tokyoday"/>
-<!-- Contribution Activity Graph (graph-like heatmap) -->
+<img src="https://github-readme-stats.vercel.app/api?username=meherunnesaenta&show_icons=true&theme=tokyoday" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meherunnesaenta&theme=tokyoday" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meherunnesaenta&layout=compact&theme=tokyoday" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meherunnesaenta&theme=dracula" alt="Contribution Graph" width="90%" />
 </p>
 
@@ -128,11 +116,11 @@ Building modern web applications with clean UI, scalable backend and real world 
 ### 🔥 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=meherunnesaenta&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=meherunnesaenta&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
 ### ✨ Quote
 
-> “Code is not just code, it is a solution to real world problems.”
+> “Code is not just code, it is a solution to real-world problems.”
