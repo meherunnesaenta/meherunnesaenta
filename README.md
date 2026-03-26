@@ -105,9 +105,7 @@ Building modern web applications with clean UI, scalable backend, and real-world
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=meherunnesaenta&show_icons=true&theme=tokyoday" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meherunnesaenta&theme=tokyoday" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meherunnesaenta&layout=compact&theme=tokyoday" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meherunnesaenta&theme=dracula" alt="Contribution Graph" width="90%" />
 </p>
 
