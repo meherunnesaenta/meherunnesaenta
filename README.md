@@ -68,39 +68,23 @@ Building modern web applications with clean UI, scalable backend, and real-world
 
 ### 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="30%">
-      <a href="https://github.com/meherunnesaenta/StyleDecor-client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=StyleDecor-client&theme=tokyonight&hide_border=true" alt="Style Decor Repo Card" />
-      </a>
-      <br/>
-      <b>Style Decor</b><br/>
-      React.js platform connecting clients with local decorators<br/>
-      <small>Tech: React.js • Tailwind • MongoDB • Auth • Firebase</small>
-    </td>
-    <td align="center" valign="top" width="30%">
-      <a href="https://github.com/meherunnesaenta/krishilink-client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=krishilink-client&theme=tokyonight&hide_border=true" alt="Krishilink Repo Card" />
-      </a>
-      <br/>
-      <b>Krishilink</b><br/>
-      React.js platform for local crop selling<br/>
-      <small>Tech: React.js • Tailwind • MongoDB • Auth • Firebase</small>
-    </td>
-    <td align="center" valign="top" width="30%">
-      <a href="https://github.com/meherunnesaenta/careio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=meherunnesaenta&repo=careio&theme=tokyonight&hide_border=true" alt="Care.io Repo Card" />
-      </a>
-      <br/>
-      <b>Care.io</b><br/>
-      Nest.js platform for babies and older services<br/>
-      <small>Tech: Nest.js • Tailwind • MongoDB • Auth • NextAuth</small>
-    </td>
-  </tr>
-</table>
+<p align="center">
 
----
+<a href="https://github.com/meherunnesaenta/StyleDecor-client">
+  <img src="https://gh-card.dev/repos/meherunnesaenta/StyleDecor-client.svg" width="300" />
+</a>
+
+<a href="https://github.com/meherunnesaenta/krishilink-client">
+  <img src="https://gh-card.dev/repos/meherunnesaenta/krishilink-client.svg" width="300" />
+</a>
+
+<a href="https://github.com/meherunnesaenta/Careio">
+  <img src="https://gh-card.dev/repos/meherunnesaenta/Careio.svg" width="300" />
+</a>
+
+</p>
+
+
 
 ### 📊 GitHub Stats
 
