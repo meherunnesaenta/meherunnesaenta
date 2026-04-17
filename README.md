@@ -70,8 +70,8 @@ Building modern web applications with clean UI, scalable backend, and real-world
 
 <p align="center">
 
-<a href="https://github.com/meherunnesaenta/StyleDecor-client">
-  <img src="https://gh-card.dev/repos/meherunnesaenta/StyleDecor-client.svg" width="300" />
+<a href="https://github.com/meherunnesaenta/Micro-task-platform">
+  <img src="https://github.com/meherunnesaenta/Micro-task-platform.svg" width="300" />
 </a>
 
 <a href="https://github.com/meherunnesaenta/StyleDecor-client">
