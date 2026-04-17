@@ -74,6 +74,10 @@ Building modern web applications with clean UI, scalable backend, and real-world
   <img src="https://gh-card.dev/repos/meherunnesaenta/StyleDecor-client.svg" width="300" />
 </a>
 
+<a href="https://github.com/meherunnesaenta/StyleDecor-client">
+  <img src="https://gh-card.dev/repos/meherunnesaenta/StyleDecor-client.svg" width="300" />
+</a>
+
 <a href="https://github.com/meherunnesaenta/krishilink-client">
   <img src="https://gh-card.dev/repos/meherunnesaenta/krishilink-client.svg" width="300" />
 </a>
