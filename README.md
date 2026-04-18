@@ -68,23 +68,18 @@ Building modern web applications with clean UI, scalable backend, and real-world
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/meherunnesaenta/Micro-task-platform">
-    <img src="https://gh-card.dev/repos/meherunnesaenta/Micro-task-platform.svg" width="300" />
-  </a>
-
-  <a href="https://github.com/meherunnesaenta/StyleDecor-client">
-    <img src="https://gh-card.dev/repos/meherunnesaenta/StyleDecor-client.svg" width="300" />
-  </a>
-
-  <a href="https://github.com/meherunnesaenta/krishilink-client">
-    <img src="https://gh-card.dev/repos/meherunnesaenta/krishilink-client.svg" width="300" />
-  </a>
-
-  <a href="https://github.com/meherunnesaenta/Careio">
-    <img src="https://gh-card.dev/repos/meherunnesaenta/Careio.svg" width="300" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://github.com/meherunnesaenta/Micro-task-platform"><img src="https://gh-card.dev/repos/meherunnesaenta/Micro-task-platform.svg" width="400" /></a></td>
+      <td align="center"><a href="https://github.com/meherunnesaenta/StyleDecor-client"><img src="https://gh-card.dev/repos/meherunnesaenta/StyleDecor-client.svg" width="400" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/meherunnesaenta/krishilink-client"><img src="https://gh-card.dev/repos/meherunnesaenta/krishilink-client.svg" width="400" /></a></td>
+      <td align="center"><a href="https://github.com/meherunnesaenta/Careio"><img src="https://gh-card.dev/repos/meherunnesaenta/Careio.svg" width="400" /></a></td>
+    </tr>
+  </table>
+</div>
 
 
 
