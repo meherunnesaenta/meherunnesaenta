@@ -11,19 +11,24 @@ Building modern web applications with clean UI, scalable backend, and real-world
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-💻 Full Stack Web Developer specializing in the **MERN Stack**  
+💻 Full Stack Web Developer specializing in the **MERN Stack** with **Next.js & TypeScript**  
+🎓 Computer Science & Engineering graduate with a strong interest in modern web technologies  
 
-🎓 Graduated in Computer Science & Engineering  
+🌱 Currently working with:
+- React
+- Next.js  
+- Express.js  
+- MongoDB  
+- TypeScript  
 
-🌱 Currently exploring **Next.js**, **Express.js**, **MongoDB**  
+🚀 Built real-world projects including a **Service Provider & Recruitment System** using Next.js  
 
-🚀 Developed projects including **Service Provider & Recruitment System** (Next.js based platform)
+🎯 Career Goal: To become a **Professional Software Engineer** and contribute to impactful, production-level systems  
 
-🎯 Career Goal: Become a **Professional Software Engineer & Web Developer**
-
-📫 Contact: **meherunnesaenta1@gmail.com**
+📫 Reach me at: **meherunnesaenta1@gmail.com**  
+🌐 Portfolio: https://mneportfolio.netlify.app/
 
 ---
 
