@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Meherun Nesa Enta</h1>
-<h3 align="center">Full Stack Web Developer (MERN)</h3>
+<h3 align="center">Software Engineer · Full-Stack (MERN)</h3>
 
 <p align="center">
 Building modern web applications with clean UI, scalable backend, and real-world problem solving.
@@ -13,22 +13,16 @@ Building modern web applications with clean UI, scalable backend, and real-world
 
 ## 👩‍💻 About Me
 
-💻 Full Stack Web Developer specializing in the **MERN Stack** with **Next.js & TypeScript**  
-🎓 Computer Science & Engineering graduate with a strong interest in modern web technologies  
+I'm a Software Engineer specializing in the **MERN stack** with **Next.js & TypeScript**. I hold a B.Sc. in Computer Science & Engineering, and I build full-stack applications end-to-end — from database schema to deployed UI.
 
-🌱 Currently working with:
-- React
-- Next.js  
-- Express.js  
-- MongoDB  
-- TypeScript  
+**Currently working with:** React · Next.js · Express.js · MongoDB · TypeScript
 
-🚀 Built real-world projects including a **Service Provider & Recruitment System** using Next.js  
+**Recent work:** Built a Service Provider & Recruitment System using Next.js, along with several full-stack platforms listed below.
 
-🎯 Career Goal: To become a **Professional Software Engineer** and contribute to impactful, production-level systems  
+**Background:** Strong foundation in competitive programming (Codeforces, CodeChef, HackerRank) — trained me to think through edge cases before writing code.
 
-📫 Reach me at: **meherunnesaenta1@gmail.com**  
-🌐 Portfolio: https://mneportfolio.netlify.app/
+📫 **Email:** meherunnesaentaa@gmail.com
+🌐 **Portfolio:** https://my-portfolio-three-eta-26.vercel.app/
 
 ---
 
