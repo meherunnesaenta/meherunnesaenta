@@ -99,6 +99,3 @@ I'm a Software Engineer specializing in the **MERN stack** with **Next.js & Type
 
 ---
 
-### ✨ Quote
-
-> “Code is not just code, it is a solution to real-world problems.”
