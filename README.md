@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://i.ibb.co/mrkYW7Xn/github-header-banner.png" width="100%" />
+  <img width="1200" height="300" alt="banner_v4" src="https://github.com/user-attachments/assets/9d0b9000-fc36-4801-85be-fad6aab674fe" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Meherun Nesa Enta</h1>
